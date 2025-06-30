@@ -10,6 +10,10 @@ This is a simple Python quiz game that asks 3 questions and shows your score.
 
 This is a simple project that every beginner do and i did it with the help of ai because i use ai to become a better developer :)
 
+## Project: Calculator
+
+Thsi is a simple calculator start by picking your operation +, -, *, /
+
 ### How to Run
 
 Make sure you have Python installed.

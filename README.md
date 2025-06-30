@@ -12,7 +12,11 @@ This is a simple project that every beginner do and i did it with the help of ai
 
 ## Project: Calculator
 
-Thsi is a simple calculator start by picking your operation +, -, *, /
+This is a simple calculator start by picking your operation +, -, *, /
+
+## Project: budget/finance tracker
+
+this really help u track your finace with my project
 
 ### How to Run
 

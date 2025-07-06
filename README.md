@@ -2,6 +2,13 @@
 
 Simple Python projects for learning purposes.
 
+## How to Run
+
+Make sure you have Python installed.
+
+Run this file in your terminal or command prompt:
+
+
 ## Project: Python Beginner Quiz
 
 This is a simple Python quiz game that asks 3 questions and shows your score.
@@ -18,8 +25,8 @@ This is a simple calculator start by picking your operation +, -, *, /
 
 this really help u track your finace with my project
 
-### How to Run
+## Project: Habit Tracker
 
-Make sure you have Python installed.
+This help track your habit by marking your habit as done and checking whether u have finish it or not
 
-Run this file in your terminal or command prompt:
+

@@ -29,4 +29,8 @@ this really help u track your finace with my project
 
 This help track your habit by marking your habit as done and checking whether u have finish it or not
 
+## Project: Banking Program
+
+Users can do deposit, withdraw, view balance, and view all transaction
+
 

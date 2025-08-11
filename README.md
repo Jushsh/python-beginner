@@ -33,4 +33,8 @@ This help track your habit by marking your habit as done and checking whether u 
 
 Users can do deposit, withdraw, view balance, and view all transaction
 
+## project: Inventory Manager
+
+Manage your inventory by adding, viewing, and deleting item
+
 
